@@ -1,6 +1,6 @@
 {
   "name": "response-chain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "handle request by chain of responsibility",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yac224/tresponse-chain.git"
+    "url": "git+https://github.com/yac224/response-chain.git"
   },
   "bugs": {
     "url": "https://github.com/yac224/response-chain/issues"
   },
-  "homepage": "https://github.com/yac224/tresponse-chain#readme",
+  "homepage": "https://github.com/yac224/response-chain#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
