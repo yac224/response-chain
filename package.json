@@ -1,0 +1,23 @@
+{
+  "name": "response-chain",
+  "version": "1.0.0",
+  "description": "handle request by chain of responsibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Alex Chen <yac224@yacoding.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yac224/tresponse-chain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yac224/response-chain/issues"
+  },
+  "homepage": "https://github.com/yac224/tresponse-chain#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
